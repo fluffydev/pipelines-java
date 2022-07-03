@@ -1,3 +1,4 @@
+[![Build Status](https://victorgsx.visualstudio.com/pipelines-java/_apis/build/status/fluffydev.pipelines-java?branchName=main)](https://victorgsx.visualstudio.com/pipelines-java/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
